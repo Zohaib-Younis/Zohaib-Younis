@@ -4,10 +4,9 @@ I'm a BSIT student at Superior University of Lahore Gold Campus with a keen inte
 Alongside, I have skills in C++, Data Structures and Algorithms (DSA), and I'm currently learning React.
 
 About Me
-- 🌱 Currently learning: React, Front-end web development
+- 🌱 Currently learning: Node js, Back-end web development
 - 💼 Seeking opportunities: Collaborate on front-end internships
 - 👨‍💻 Additional Skills: C++, Data Structures and Algorithms (DSA)
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: [Email](mailto:mr.zohaibyounus@gmail.com), [LinkedIn](https://www.linkedin.com/in/zohaib-younis/)
 - ⚡ Fun fact: I'm eager to learn and hardworking!
 

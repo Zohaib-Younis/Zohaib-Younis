@@ -1,7 +1,7 @@
 Hi there, I'm Zohaib Younis! 👋
 
-I'm a BSIT student at Superior University of Lahore Gold Campus with a keen interest in front-end web development.
-Alongside, I have skills in C++, Data Structures and Algorithms (DSA), and I'm currently learning React.
+I'm a BSIT student at Superior University of Lahore Gold Campus with a keen interest in Fullstack dev.
+Alongside, I have skills in C++, Data Structures and Algorithms (DSA), and I'm currently going for the fullstack training at NUOVA EDUCATIONS Johar town.
 
 About Me
 - 🌱 Currently learning: Node js, Back-end web development
